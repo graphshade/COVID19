@@ -1,4 +1,6 @@
 # COVID19
+Includes:
 Data on Ghana COVID-19 cases
-
-Estimating of Africa's COVID-19 real time reproduction rates using Bayesian Statistics
+Estimation of Africa's COVID-19 real time disease reproduction rates using Bayesian Statistics
+Estimation of Ghana's Regional reproduction rates
+Tableau Dashboard
