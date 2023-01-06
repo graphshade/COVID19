@@ -15,7 +15,7 @@ The goal of this project is to estimate the most-likely value of Rt precisely en
 - Python
 - Adobe Illustrator
 
-<h2>Environments Used </h2>
+<h2>Environment Used </h2>
 
 - <b>Windows 10</b>
 
