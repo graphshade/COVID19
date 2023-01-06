@@ -2,7 +2,7 @@
 
 [Imgur](https://i.imgur.com/bgBAL0x.png)
 
-# Estimating Ghana's COVID19 Effective Reproduction Rate - Bayasian Approach
+# Estimating Ghana's COVID19 Effective Reproduction Rate - Baysian Approach
 
 ![](https://i.imgur.com/bgBAL0x.png)
 <h2>Description</h2>
