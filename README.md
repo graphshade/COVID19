@@ -10,14 +10,14 @@ The rate at which a virus is transmitted — known as the R-naught (R0), or basi
 <br></br>
 The goal of this project is to estimate the most-likely value of Rt precisely enough to inform policy decision.
 
-<h2>Languages and Packages Used</h2>
+<h2>Languages and Other Software Used</h2>
 
 - Python
-- [List of packages](https://github.com/graphshade/plotly_dash/blob/master/requirements.txt)
+- Adobe Illustrator
 
 <h2>Environments Used </h2>
 
-- <b>Ubuntu 20.04.1 LTS</b> (21H2)
+- <b>Windows 10</b>
 
 
 
